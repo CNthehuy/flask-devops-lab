@@ -1,6 +1,5 @@
 {
 	"app_name": "flask-devops-lab",
-	"version": "0.2.0",
-	"description": "Diagnostic Flask app for Git, GitHub, and Docker practice",
+	"version": "0.1.0",
 	"targets": []
 }
