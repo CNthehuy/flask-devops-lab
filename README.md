@@ -1,5 +1,5 @@
 # Flask DevOps Lab
-
+controlled conflict
 ## Usage
 This is meant to be used as a learning environment to practice the use of Git, GitHub, and Docker. No other use is permitted.
 
